@@ -77,6 +77,8 @@ The following image showcases the learning curve for the German dataset, again w
 
 ### Conclusion
 
+![Coef](images/final_model_coefficients.png)
+
 **French Model Analysis:**
 1. `CARBON_RET`, `GAS_RET`, and `COAL_RET` have the most positive influence on the electricity price in France. This suggests that as the returns from carbon, gas, and coal increase, the electricity price also tends to rise.
 2. On the contrary, `FR_TEMP`, `FR_SOLAR`, and `FR_NET_IMPORT` have the most negative influence. This could indicate that higher temperatures, increased solar energy production, and a higher net import of electricity lead to a decrease in electricity price.
